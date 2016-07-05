@@ -56,7 +56,7 @@
     "handsontable": "0.11.4",
     "jquery": "1.11.3",
     "jquery-file-upload": "9.8.0",
-    "jquery-hashchange": "1.3",
+    "jquery-hashchange": "v1.3",
     "jquery-maskedinput": "1.3.1",
     "jquery-mobile-bower": "1.4.2",
     "jquery-price-format": "2.0.0",
